@@ -37,5 +37,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&username=BRC" height="118" alt="languages graph"  />
 </div>
 
-
+<img src="/assets/snake.svg" alt="An animation of snake eating the github user contribuitions (like snake game)" class="styles__Image-sc-394ax3-1 foBhqB">
 ###
